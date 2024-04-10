@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f65ad50685689374b8f27727389d1aaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controler: {instanceID: 0}
+  - show_move_obj: {fileID: 3746688675034649924, guid: c0027961955e6f342967990776532c3b, type: 3}
+  - show_attack_obj: {fileID: 4213969630993967590, guid: e11e8810c2f1f0b4b840319212dff70f, type: 3}
+  - b_king: {instanceID: 0}
+  - b_pawn: {instanceID: 0}
+  - b_kight: {instanceID: 0}
+  - b_bish: {instanceID: 0}
+  - b_queen: {instanceID: 0}
+  - b_rook: {instanceID: 0}
+  - w_king: {instanceID: 0}
+  - w_pawn: {instanceID: 0}
+  - w_kight: {instanceID: 0}
+  - w_bish: {instanceID: 0}
+  - w_queen: {instanceID: 0}
+  - w_rook: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
